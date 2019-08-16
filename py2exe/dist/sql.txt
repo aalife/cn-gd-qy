@@ -1,0 +1,1 @@
+select * from qy.tf_f_user where rownum<10
